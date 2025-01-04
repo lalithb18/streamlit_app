@@ -276,9 +276,6 @@ rich==13.7.1
 rope==1.12.0
 rpds-py==0.10.6
 Rtree==1.0.1
-ruamel.yaml==0.18.6
-ruamel.yaml.clib==0.2.8
-ruamel-yaml-conda==0.17.21
 s3fs==2024.6.1
 scikit-image==0.24.0
 scikit-learn==1.5.1
@@ -354,7 +351,6 @@ Werkzeug==3.0.3
 whatthepatch==1.0.2
 wheel==0.44.0
 widgetsnbextension==3.6.6
-win-inet-pton==1.1.0
 wordcloud==1.9.4
 wrapt==1.14.1
 xarray==2023.6.0
