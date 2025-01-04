@@ -276,7 +276,7 @@ rope==1.12.0
 rpds-py==0.10.6
 Rtree==1.0.1
 s3fs==2024.6.1
-@scikit-image==0.24.0
+#scikit-image==0.24.0
 #scikit-learn==1.5.1
 scipy==1.13.1
 Scrapy==2.11.1
